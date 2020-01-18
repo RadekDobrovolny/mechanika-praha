@@ -1,0 +1,4 @@
+baseURL = "https://radekdobrovolny.github.io/mechanika-praha"
+languageCode = "en-us"
+title = "Mechanika Praha"
+publishDir = "docs"
