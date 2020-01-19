@@ -7,3 +7,5 @@ Vážení zákazníci, ve dnech Y až Z má náš obchod tuto otevírací dobu:
 | Den B          | 8:00 - 12:00 |
 | Den C - Den D  | Zavřeno      |
 | Den E          | 8:00 - 12:00 |
+
+Děkujeme za pochopení.
