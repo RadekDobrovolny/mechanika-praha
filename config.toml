@@ -18,7 +18,7 @@ paginate = 6
   URL = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
   URL = "plugins/magnific-popup/magnific-popup.css"
-  
+
   # JS Plugins
   [[params.plugins.js]]
   URL = "plugins/jQuery/jquery.min.js"
@@ -29,37 +29,37 @@ paginate = 6
   [[params.plugins.js]]
   URL = "plugins/magnific-popup/magnific-popup.min.js"
 
-  
+
 ############################## navigation ###############################
 [menu]
-    
+
   [[menu.main]]
-  name = "About"
+  name = "Úvod"
   URL = "book"
   weight = 2
-  
+
   [[menu.main]]
-  name = "Chapter"
+  name = "Prodej"
   URL = "chapter"
   weight = 3
-  
+
   [[menu.main]]
-  name = "Reviews"
+  name = "Opravy"
   URL = "review"
   weight = 4
-  
+
   [[menu.main]]
-  name = "Author"
+  name = "Náhradní díly"
   URL = "author"
   weight = 5
-  
+
   [[menu.main]]
-  name = "Blog"
+  name = "Historie"
   URL = "blog"
   weight = 6
-  
+
   [[menu.main]]
-  name = "Contact"
+  name = "Kontakt"
   URL = "contact"
   weight = 7
 
@@ -85,7 +85,7 @@ copyright = "Copyright &copy; 2019 [GetHugoThemes](https://gethugothemes.com) Al
   [params.navButton]
   enable = true
 
-  
+
 ############################# Footer ########################
 [params.footer]
 content = "Each theme featured at the Bootstrap marketplace has been reviewed by Bootstrap's creators.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
@@ -111,4 +111,3 @@ link = "#"
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "#"
-
