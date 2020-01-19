@@ -19,21 +19,21 @@ chapters:
               se na text z úvodu?"
   chapter:
     - title : "Spotřebiče pro kuchyň a domácnost"
-      content : "- kuchyňské roboty
-                 - mixery
-                 - šlehače
-                 - fritézy
-                 - odšťavovače
-                 - kávovary a espressa
-                 - varné konvice
-                 - opékače topinek
-                 - kávomlýnky
-                 - elektrické vařiče
-                 - toastery, grily
-                 - varné konvice
-                 - vysavače prachu
-                 - žehličky
-                 - tlakové hrnce Steinbach"
+      content : "kuchyňské roboty<br>
+                 mixéry<br>
+                 šlehače<br>
+                 fritézy<br>
+                 odšťavovače<br>
+                 kávovary a espressa<br>
+                 varné konvice<br>
+                 opékače topinek<br>
+                 kávomlýnky<br>
+                 elektrické vařiče<br>
+                 toastery, grily<br>
+                 varné konvice<br>
+                 vysavače prachu<br>
+                 žehličky<br>
+                 tlakové hrnce Steinbach"
 
     - title : "Spotřebiče pro topení, vaření a ohřev vody"
       content : "- mikrovlnné trouby
