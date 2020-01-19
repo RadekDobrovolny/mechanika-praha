@@ -8,10 +8,10 @@ banner:
              Ergo, Liv, Wella, Kadus. Pozáruční servis dle možnosti
              náhr. dílů – ETA, Remoska."
 
-#########################  ##########################
+######################### Opravy ##########################
 chapters:
   enable : true
-  title : ""
+  title : "Opravy"
   subtitle : "Provádíme autorizovaný záruční, pozáruční servis, , prodej
               náhradních dílů spotřebičů zn. Braun, Delonghi, Ergo, Kadus,
               Kenwood, Liv, Wella. Dále provádíme pozáruční servis dle
@@ -20,12 +20,10 @@ chapters:
   chapter:
     - title : "Spotřebiče pro kuchyň a domácnost"
       content : "- kuchyňské roboty
-      \n - mixéry
-      \n - mixery
-      \n - šlehače
+      \n - mixéry, šlehače
       \n - fritézy
       \n - odšťavovače
-      \n - kávovary a espressa
+      \n - kávovary, espressa
       \n - varné konvice
       \n - opékače topinek
       \n - kávomlýnky
@@ -53,6 +51,29 @@ chapters:
       content : "- sekačky na trávu
                  \n - mobilní klimatizace
                  \n - kadeřnické přístroje WELLA"
+
+######################### Náhradní dily ##########################
+spareparts:
+  enable : true
+  title : "Náhradní díly a příslušenství"
+  subtitle : "Prodáváme náhradní díly a příslušenství k námi prodávaným spotřebičům."
+  chapter:
+    - title : "Náhradní díly"
+      content : "- nástavce a díly k dentálním přístrojům Braun
+                 \n - filtry k fritézám
+                 \n - odvápňovače
+                 \n - náhradní filtry k vysavačům
+                 \n - skleněné talíře do mikrovlnných trub
+                 \n - metly a struhadla k robotům
+                 \n - holicích fólie a nože pro strojky Braun"
+
+    - title : "Před nákupem je vhodné"
+      content : "- Přinést vzorek či detailní foto dílu s sebou
+                 \n - Přinést návod ke spotřebiči
+                 \n - Znát typové číslo ze štítku spotřebiče"
+  warning: "Upozornění: typové číslo z návodu ke spotřebiči nebývá dostačující,
+  tato se často neshodují s čísly produktů."
+  contact: "Pro více informací ke konkrétním dílům nás, prosím, kontaktujte."
 
 ######################## Book Preview ##########################
 preview:

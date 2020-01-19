@@ -44,24 +44,19 @@ paginate = 6
   weight = 3
 
   [[menu.main]]
-  name = "Prodej"
-  URL = "review"
+  name = "Náhradní díly"
+  URL = "nahradni-dily"
   weight = 4
 
   [[menu.main]]
-  name = "Náhradní díly"
-  URL = "author"
+  name = "Historie"
+  URL = "historie"
   weight = 5
 
   [[menu.main]]
-  name = "Historie"
-  URL = "blog"
-  weight = 6
-
-  [[menu.main]]
   name = "Kontakt"
-  URL = "contact"
-  weight = 7
+  URL = "kontakt"
+  weight = 6
 
 
 #################### default parameters ################################
