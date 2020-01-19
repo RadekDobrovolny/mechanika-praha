@@ -39,8 +39,8 @@ paginate = 6
   weight = 2
 
   [[menu.main]]
-  name = "Prodej"
-  URL = "chapter"
+  name = "Opravy"
+  URL = "opravy"
   weight = 3
 
   [[menu.main]]
