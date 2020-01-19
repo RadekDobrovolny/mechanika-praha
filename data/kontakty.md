@@ -9,6 +9,8 @@
 <google mapa>
 
 ## Provozní doba
+| Den      | Hodiny       |
+|----------|--------------|
 | Pondělí  | 8:00 - 17:00 |
 | Úterý    | 8:00 - 17:00 |
 | Středa   | 8:00 - 17:00 |
@@ -30,3 +32,11 @@
 - Dílna
   - e-mail: dilna@mechanika.cz
   - tel.: +420 222 591 244, +420 284 860 087
+
+## Fakturační údaje
+- Mechanika Praha, družstvo
+- Lukášova 311/5, Praha 3, 130 00
+- IČO: 00027545
+- DIČ: CZ00027545
+- Bankovní spojení: 601011 / 0100
+- Společnost je zapsána v obchodním rejstříku vedeném u Městského soudu v Praze, spisová značka DrXCIX 119.
