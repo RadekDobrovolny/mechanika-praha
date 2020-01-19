@@ -38,5 +38,5 @@
 - Lukášova 311/5, Praha 3, 130 00
 - IČO: 00027545
 - DIČ: CZ00027545
-- Bankovní spojení: 601011 / 0100
+- Bankovní spojení: 24011011 / 0100
 - Společnost je zapsána v obchodním rejstříku vedeném u Městského soudu v Praze, spisová značka DrXCIX 119.
