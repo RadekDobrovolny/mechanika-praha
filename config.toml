@@ -1,6 +1,6 @@
 baseURL = "https://radekdobrovolny.github.io/mechanika-praha/"
 languageCode = "en-us"
-title = "Mechanika Praha"
+title = "Mechanika Praha, Družstvo"
 publishDir = "docs"
 theme = "influencer-hugo"
 summaryLength = "10"

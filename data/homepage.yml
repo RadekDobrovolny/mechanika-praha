@@ -8,8 +8,9 @@ banner:
              Ergo, Liv, Wella, Kadus. Pozáruční servis dle možnosti
              náhr. dílů – ETA, Remoska."
 
+
 ######################### Opravy ##########################
-chapters:
+opravy:
   enable : true
   title : "Opravy"
   subtitle : "Provádíme autorizovaný záruční, pozáruční servis, , prodej
@@ -52,6 +53,7 @@ chapters:
                  \n - mobilní klimatizace
                  \n - kadeřnické přístroje WELLA"
 
+
 ######################### Náhradní dily ##########################
 spareparts:
   enable : true
@@ -75,213 +77,89 @@ spareparts:
   tato se často neshodují s čísly produktů."
   contact: "Pro více informací ke konkrétním dílům nás, prosím, kontaktujte."
 
-######################## Book Preview ##########################
-preview:
+
+######################### Historie #############################
+history:
   enable : true
-  pagePreview:
-    # page preview loop
-    - image : "images/about/book_page.png"
-    - image : "images/about/book_page2.png"
-    - image : "images/about/book_page.png"
+  title: "Historie"
+  para1: "Historie Mechaniky Praha se začíná psát 25. lednem 1936, kdy se
+    několik pracovníků ETA Praha rozhodlo řešit problémy spojené s hospodářskou
+    krizí a nezaměstnaností vlastním podnikatelským záměrem. Svoji první
+    činnost zaměřili na opravy a revize elektroměrů. Název družstva zněl
+    Mechanika - opravna a cejchovna elektroměrů Praha. Družstvo mělo 25 členů.
+    Během let 1936 - 1939 družstvo měnilo několikrát stanovy a předmět
+    podnikání. Také stav pracovníků kolísal, nikdy ale
+    nepřesáhl stav při založení."
+  para2: "Po roce 1948 měla Mechanika 46 drobných provozoven a počet pracovníků
+    dosáhl 600. Jednalo se o drobné provozovny živnostníků, které postihla
+    poúnorová socializace. Na valných hromadách v letech 1956 a 1958 družstvo
+    přijalo nové stanovy. V roce 1958 plnilo celkem 681 pracovníků výrobní
+    úkoly a služby na 55 provozovnách. Byla otevřeno rekreační zařízení v
+    Krkonoších."
+  para3: "V roce 1961 se Mechanika sloučila s družstvem Astra, které montovalo
+    a opravovalo mlékárenské stroje. Družstvo dosáhlo 835 pracovníků v 78
+    provozovnách. Družstvo se zapojovalo do soutěží, ze kterých si odnášelo
+    mnohá státní a družstevní ocenění v podobě standart a státních vyznamenání.
+    Byla zahájena stavba výrobního závodu v Praze - Krči. Dokončen byl v
+    pololetí roku 1963. Vyráběly se zde drobné elektrospotřebiče, kapesní
+    nabíjecí svítilny a fotoblesky, ve kterých byla Mechanika monopolním
+    výrobcem. V roce 1963 družstvo s 1014 pracovníky získalo státní vyznamenání
+    Řád práce a dosáhlo ročního obratu 52 mil. Kčs. Družstvo postupně budovalo
+    po Praze sběrny oprav a poskytovalo služby v mnoha oborech."
+  para4: "V roce 1975 se družstvo sloučilo s výrobním družstvem Dělba, které
+    přišlo s výrobním programem na vybavení fotolaboratoří. Počet pracovníků
+    dosáhl 1100 a roční obrat přesáhl poprvé 100 mil. Kčs. Výrobní program
+    družstva byl rozsáhlý od výroby autopřívěsů, vybavení fotolaboratoří,
+    výroby spotřebního zboží, letištní zabezpečovací techniky až po výrobu
+    průmyslových vývěv. Ve výrobě spotřebního zboží dosáhlo družstvo čelního
+    postavení na československém trhu. S výrobky taška na kolečkách a kráječ
+    brambor se dařil vývoz do východní Evropy a na západní trhy."
+  para5: "Opravářská a servisní činnost je obohacena o celostátní servis
+    náhradních dílů včetně technicko-poradenské činnosti pro široké spektrum
+    výrobků a činností. Počet pracovníků od roku 1975 do roku 1989 neklesá
+    pod jeden tisíc, největší počet - 1151 jich Mechanika měla v roce 1986.
+    Družstvo bylo na vrcholu úspěchů, výroba byla zaměřena na výrobky, které
+    byly určeny do tržních fondů pro státní obchod. V sortimentu družstva
+    nebyla na našem území konkurence. Vybudovalo se obrovské rekreační a
+    školící zařízení v jižních Čechách. V roce 1984 byla zahájen největší
+    investiční akce, výstavba závodu v Praze na Vackově."
+  para6: "Revoluční rok 1989 nenechal takový kolos jako byla Mechanika v klidu.
+    Porevoluční čas byl charakterizován problémy s odbytem, konkurencí
+    zahraničních výrobků, nedostatkem financí na dostavbu nového závodu.
+    Družstvo také opustila řada kvalifikovaných pracovníků, kteří začali
+    soukromě podnikat. Přesto se začátkem roku 1991 podařilo dokončit závod
+    na Vackově."
 
-  title : "Look Inside the book"
-  content : "
-  This lovely, well-written book is concerned with creating typography and is essential for professionals who regularly work for clients.
-
-
-  Dolor quam consectetur corrupti, dignissimos sequi. Nihil totam alias, ipsa facere quibusdam, modi accusamus quod quae quaerat.
-  "
-
-  inside:
-    # book inside item loop
-    - insideItem : "7 Chapter"
-    - insideItem : "Explained Details"
-    - insideItem : "Clear Understanding"
-    - insideItem : "Best practices"
-
-  # button
-  button:
-    enable : true
-    label : "Purchase on Amazon"
-    link : "#"
-
-
-########################## Service ##############################
-service:
-  enable : true
-  serviceItem:
-    # service item loop
-    - title : "Experience"
-      icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
-
-    # service item loop
-    - title : "Marketing Goals"
-      icon : "ti-rocket" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
-
-    # service item loop
-    - title : "Targetting Vission"
-      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
-      content : "Must explain to you how this denouncing praisig pain was give you explain to you how."
-
-
-######################### Quote #############################
-quote:
-  enable : true
-  quote: "It's simply the best guide to making money online ever released which only a fool would ignore."
-  quoteBy: "John Smith"
-
-
-########################## Revews ###########################
-reviews:
-  enable : true
-  title : "What people are saying"
-  subtitle : "Amazing reviews illo tenetur laboriosam excepturi velit in, temporibus ab rem dicta sint obcaecati!"
-  review:
-    # review item loop
-    - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80-80 px
-      designation : "Sunrise ten"
-      rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-
-    # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80-80 px
-      designation : "Sunrise ten"
-      rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-
-    # review item loop
-    - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80-80 px
-      designation : "Sunrise ten"
-      rating : "five" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-
-    # review item loop
-    - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80-80 px
-      designation : "Sunrise ten"
-      rating : "four" # rating from one to five
-      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
-
-
-#################################### device ################################
-devices:
-  enable : true
-  title : "Read it on your favorite device!"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae quod, nobis repudiandae! In
-          commodi accusamus molestiae, sunt, tempora fugiat doloribus sint quisquam illo numquam corporis
-          tenetur necessitatibus expedita eius, sed."
-  image : "images/about/ipad.jpg"
-  feature:
-    # feature item loop
-    - title : "Take a sneak peak insight"
-      icon : "ti-bar-chart" # themify icon pack : https://themify.me/themify-icons
-      content : "Sed laborum omnis earum facere culpa optio natus quaerat minus."
-
-    # feature item loop
-    - title : "Reporting & Analysis"
-      icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
-      content : "Sed laborum omnis earum facere culpa optio natus quaerat minus."
-
-
-  # button
-  button:
-    enable : true
-    label : "Purchase on amazon"
-    link : "#"
-
-######################################## author #############################
-author:
-  enable : true
-  image : "images/about/home-1.jpg"
-  name : "Yasin Arafat"
-  designation : "A technical Writer"
-  content : "
-  Do you want to be even more successful? Learn to love learn and growth. The more efort you put into improving your skills, the bigger the payoff you will get.
-
-
-  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
-
-  # signature
-  siggnature : "images/about/2.png"
-
-
-################################ Awards #####################################
-awards:
-  enable : true
-  title : "We are award winner best selling book among the top rated 10 books!"
-  award:
-    # award item loop
-    - title : "International award"
-      image : "images/about/award-1.png"
-
-    # award item loop
-    - title : "Meritorious award"
-      image : "images/about/award-2.png"
-
-    # award item loop
-    - title : "Best book award"
-      image : "images/about/award-3.png"
-
-    # award item loop
-    - title : "Excellence award"
-      image : "images/about/award-4.png"
-
-
-############################# Other books ###############################
-otherBooks:
-  enable : true
-  title : "Others books by the author"
-  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique
-            facere quas blanditiis."
-  book:
-    # books loop
-    - image : "images/about/b-1.jpg"
-      link : "#"
-
-    # books loop
-    - image : "images/about/b-2.jpg"
-      link : "#"
-
-    # books loop
-    - image : "images/about/b-3.jpg"
-      link : "#"
-
-    # books loop
-    - image : "images/about/b-4.jpg"
-      link : "#"
-
-################################ Blog ###################################
-blog:
-  enable : true
-  title : "Our insights and articles"
-  subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique facere quas blanditiis."
-  # blog post comes from 'content/blog'
 
 ################################# Contact ##############################
 contact:
   enable : true
-  title : "Contact Us"
-  subtitle : "Whether you have questions or you would just like to say hello, contact us.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, atque!"
+  title : "Kontakt"
+  subtitle : "Objednávky náhradních dilů, příslušenství a obecné dotazy"
   contactItem:
     # contact Item loop
-    - title : "Contact Quickly"
+    - title : "Telefon"
       icon : "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "+23-68017684"
+        - listItem : "+420 222 590 877"
 
     # contact Item loop
-    - title : "Email"
+    - title : "E-mail"
       icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "startor@support.com"
+        - listItem : "sklad@mechanika.cz"
 
     # contact Item loop
-    - title : "Location"
+    - title : "Kde nás najdete"
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
       list:
-        - listItem : "397 Lake forest drive street USA"
+        - listItem : "Lukášova 311/5, Praha 3, 130 00"
+  openinghourstitle : "Provozní doba"
+  openinghours : "| Den      | Hodiny       |\n
+                  |----------|--------------|\n
+                  | Pondělí  | 8:00 - 17:00 |\n
+                  | Úterý    | 8:00 - 17:00 |\n
+                  | Středa   | 8:00 - 17:00 |\n
+                  | Čtvrtek  | 8:00 - 17:00 |\n
+                  | Pátek    | 8:00 - 14:00 |\n
+                  | So - Ne  | zavřeno      |"
