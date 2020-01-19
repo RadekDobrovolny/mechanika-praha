@@ -150,16 +150,41 @@ contact:
         - listItem : "sklad@mechanika.cz"
 
     # contact Item loop
-    - title : "Kde nás najdete"
+    - title : "Kde nás najdete?"
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
       list:
         - listItem : "Lukášova 311/5, Praha 3, 130 00"
-  openinghourstitle : "Provozní doba"
-  openinghours : "| Den      | Hodiny       |\n
-                  |----------|--------------|\n
-                  | Pondělí  | 8:00 - 17:00 |\n
-                  | Úterý    | 8:00 - 17:00 |\n
-                  | Středa   | 8:00 - 17:00 |\n
-                  | Čtvrtek  | 8:00 - 17:00 |\n
-                  | Pátek    | 8:00 - 14:00 |\n
-                  | So - Ne  | zavřeno      |"
+  openingHours :
+    title : "Provozní doba"
+    hours : "| Den      | Hodiny       |\n
+             |----------|--------------|\n
+             | Pondělí  | 8:00 - 17:00 |\n
+             | Úterý    | 8:00 - 17:00 |\n
+             | Středa   | 8:00 - 17:00 |\n
+             | Čtvrtek  | 8:00 - 17:00 |\n
+             | Pátek    | 8:00 - 14:00 |\n
+             | So - Ne  | zavřeno      |"
+  otherContacts :
+    title : "Ostatní kontakty"
+    content: "- Vedoucí provozovny\n
+              \t- Hana Vedralová\n
+              \t\t- e-mail: sklad@mechanika.cz\n
+              \t\t- tel.: +420 731 828 353\n
+              - Ekonomický úsek\n
+              \t- e-mail: ekonom@mechanika.cz\n
+              \t- tel.: +420 284 860 084\n
+              - Odbyt výrobků\n
+              \t- e-mail: odbyt@mechanika.cz\n
+              \t- tel.: +420 607 068 806\n
+              - Dílna\n
+              \t- e-mail: dilna@mechanika.cz\n
+              \t- tel.: +420 222 591 244, +420 284 860 087"
+  invoiceInfo :
+    title : "Fakturační údaje"
+    content : "- Mechanika Praha, družstvo\n
+               - Lukášova 311/5, Praha 3, 130 00\n
+               - IČO: 00027545\n
+               - DIČ: CZ00027545\n
+               - Společnost je zapsána v obchodním rejstříku vedeném u Městského soudu v Praze, spisová značka DrXCIX 119.\n
+               - Bankovní spojení: 24011011 / 0100\n
+               - ID datové schránky: qzxrbff"
