@@ -3,55 +3,56 @@ banner:
   enable : true
   title : "MECHANIKA PRAHA, <br>DRUŽSTVO"
   image : "images/about/otviraky.jpg"
-  content : "Provádíme autorizovaný záruční, pozáruční servis, opravy,
+  content : "Provádíme autorizovaný záruční, pozáruční servis, ,
              prodej náhradních dílů, spotřebičů Braun, Delonghi, Kenwood,
              Ergo, Liv, Wella, Kadus. Pozáruční servis dle možnosti
              náhr. dílů – ETA, Remoska."
 
-######################### Opravy ##########################
+#########################  ##########################
 chapters:
   enable : true
-  title : "Opravy"
-  subtitle : "Provádíme autorizovaný záruční, pozáruční servis, opravy, prodej
+  title : ""
+  subtitle : "Provádíme autorizovaný záruční, pozáruční servis, , prodej
               náhradních dílů spotřebičů zn. Braun, Delonghi, Ergo, Kadus,
               Kenwood, Liv, Wella. Dále provádíme pozáruční servis dle
               dostupnosti náhr. dílů - zn. ETA, Remoska. pozn. - odkazovat
               se na text z úvodu?"
   chapter:
     - title : "Spotřebiče pro kuchyň a domácnost"
-      content : "kuchyňské roboty <br>
-                 mixéry <br>
-                 šlehače <br>
-                 fritézy <br>
-                 odšťavovače <br>
-                 kávovary a espressa <br>
-                 varné konvice <br>
-                 opékače topinek <br>
-                 kávomlýnky <br>
-                 elektrické vařiče <br>
-                 toastery, grily <br>
-                 varné konvice <br>
-                 vysavače prachu <br>
-                 žehličky <br>
-                 tlakové hrnce Steinbach"
+      content : "- kuchyňské roboty
+      \n - mixéry
+      \n - mixery
+      \n - šlehače
+      \n - fritézy
+      \n - odšťavovače
+      \n - kávovary a espressa
+      \n - varné konvice
+      \n - opékače topinek
+      \n - kávomlýnky
+      \n - elektrické vařiče
+      \n - toastery, grily
+      \n - varné konvice
+      \n - vysavače prachu
+      \n - žehličky
+      \n - tlakové hrnce Steinbach"
 
     - title : "Spotřebiče pro topení, vaření a ohřev vody"
       content : "- mikrovlnné trouby
-                 - konvektory, přímotopy, klimatizace
-                 - ventilátory s topnými systémy
-                 - infrazářiče"
+                 \n - konvektory, přímotopy, klimatizace
+                 \n - ventilátory s topnými systémy
+                 \n - infrazářiče"
 
     - title : "Spotřebiče pro osobní hygienu"
       content : "- vysoušeče vlasů
-                 - el. zubní kartáčky a sprchy
-                 - holící strojky
-                 - elektrické kulmy
-                 - epilátory"
+                 \n - el. zubní kartáčky a sprchy
+                 \n - holící strojky
+                 \n - elektrické kulmy
+                 \n - epilátory"
 
     - title : "Ostatní přístroje"
       content : "- sekačky na trávu
-                 - mobilní klimatizace
-                 - kadeřnické přístroje WELLA"
+                 \n - mobilní klimatizace
+                 \n - kadeřnické přístroje WELLA"
 
 ######################## Book Preview ##########################
 preview:
@@ -119,28 +120,28 @@ reviews:
   review:
     # review item loop
     - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80*80 px
+      image : "images/client/test-1.jpg" # image size 80-80 px
       designation : "Sunrise ten"
       rating : "five" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
     # review item loop
     - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
+      image : "images/client/test-2.jpg" # image size 80-80 px
       designation : "Sunrise ten"
       rating : "four" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
     # review item loop
     - name : "Barrow Hasi"
-      image : "images/client/test-1.jpg" # image size 80*80 px
+      image : "images/client/test-1.jpg" # image size 80-80 px
       designation : "Sunrise ten"
       rating : "five" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
     # review item loop
     - name : "Nilam Arthur"
-      image : "images/client/test-2.jpg" # image size 80*80 px
+      image : "images/client/test-2.jpg" # image size 80-80 px
       designation : "Sunrise ten"
       rating : "four" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
